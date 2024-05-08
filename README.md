@@ -2,8 +2,6 @@
 ##### Authors: Nick Johnson, Will Blanton, Nathan Rogers, Andrew Wilkes, Evan Skripac
 ##### Date: December 7, 2022
 
-# Sprint5:
-
 ## Controls:
 ### Player controls
 * W - move Link up, make Link face up
